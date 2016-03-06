@@ -236,7 +236,7 @@ https://github.com/SEEDTEAM/TeleSeed
 
 Admins
 @iwals [Founder]
-@imandaneshi [Developer]
+sodo user{110124923}
 @Rondoozle [Developer]
 @seyedan25 [Manager]
 
